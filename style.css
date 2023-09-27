@@ -78,14 +78,14 @@
     }
     @media (max-width: 576px){
       .box-container{
-        padding: 32px;
+        padding: 12px;
         flex-direction: column;
         margin: 0;
         width: auto;
-        height: 300px;
       }
-      .box{
-        padding: 12px;
+    .box{
+        padding: 32px;
+        height: 300px;
       }
     }
   
